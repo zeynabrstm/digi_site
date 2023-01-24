@@ -12,7 +12,7 @@ div.digikaladiv>div.all{
     margin: 0 auto;
     /* border: 1px solid red; */
     margin-top: 15px;
-    text-align:center;
+   
     
 }
 
@@ -59,7 +59,7 @@ div.digikaladiv>div.all>div.tell>p{
 div.digikaladiv>div.service5{
     width: 90%;
     margin: 0 auto;
-    text-align:center;
+   
 }
 
 div.digikaladiv>div.service5>div{
@@ -75,7 +75,7 @@ div.digikaladiv>div.service5>div>a>p
 {
 font-family: body1;
 font-size: 12px;
-text-align: center;
+
 }
 div.digikaladiv>div.service5>div>a>svg{
     text-align: center;
@@ -96,7 +96,7 @@ div.digikaladiv>div.service4>div{
     
 }
 div.digikaladiv>div.service4>div:nth-of-type(2),div.digikaladiv>div.service4>div:nth-of-type(3),div.digikaladiv>div.service4>div:nth-of-type(4){
-    margin-right:200px;
+    margin-right:190px;
 
 }
 div.digikaladiv> div.service4>div>div.a>p{
