@@ -12,7 +12,7 @@ div.digikaladiv>div.all{
     margin: 0 auto;
     /* border: 1px solid red; */
     margin-top: 15px;
-    text-align:center;
+    
 }
 
 div.digikaladiv>div.all>div{
@@ -34,7 +34,7 @@ div.digikaladiv>div.all>div.returnup{
     height: 30px;
     border: 1px solid green; 
     border-radius: 5px;
-    margin-left:100px;
+    margin-right:900px;
 }
 div.digikaladiv>div.all>div.returnup>a{
     text-decoration: none;
