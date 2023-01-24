@@ -43,7 +43,7 @@ div.sell7>div.top>div.morereads>a>p{
 
 }
 div.sell7>div.bottom{
-     width: 90%
+     width: 90;
 /*     border: 1px solid  green; */
     margin: 0 auto;
     text-align: center;
@@ -58,10 +58,11 @@ div.sell7>div.bottom>div{
     margin-top: 20px;
     margin: 0 auto;
     vertical-align: top;
+    text-align:center;
 }
 
 div.sell7>div.bottom>div>a>img{
-  width:22%;
+  width:300px;
   border-radius: 10px;
 }
 div.sell7>div.bottom>div>a{
