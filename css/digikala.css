@@ -12,6 +12,7 @@ div.digikaladiv>div.all{
     margin: 0 auto;
     /* border: 1px solid red; */
     margin-top: 15px;
+    text-align:center;
     
 }
 
@@ -34,7 +35,7 @@ div.digikaladiv>div.all>div.returnup{
     height: 30px;
     border: 1px solid green; 
     border-radius: 5px;
-    margin-right:900px;
+    margin-right:1100px;
 }
 div.digikaladiv>div.all>div.returnup>a{
     text-decoration: none;
@@ -163,7 +164,7 @@ div.digikaladiv> div.service4>div>div.d>input{
     height:20px;
     background-color:lightgrey;
     border: 1px solid transparent;
-    font-size: 13px;
+    font-size: 11px;
     margin-top: 10px;
   
 
