@@ -12,14 +12,23 @@ div.sell7>div.top>div{
     /* border: 1px solid gray; */
 }
 
+div.sell7>div.top>div.reads{
+    /* border: 1px solid green; */
+    width:45%;
+}
 div.sell7>div.top>div.reads>p{
 font-family: body1;
 font-size: 16px;
+text-align: right;
+margin-right: 100px
 
 }
 
 div.sell7>div.top>div.morereads{
-margin-right:150px;
+    /* border: 1px solid green; */
+    width:45%;
+    margin-left: 0;
+
 }   
 div.sell7>div.top>div.morereads>a{
     text-decoration: none;
@@ -29,7 +38,8 @@ div.sell7>div.top>div.morereads>a>p{
     font-family: body1;
     font-size: 13px;
     color: lightseagreen;
-    margin-right:300px;
+    text-align: left;
+   
 
 }
 div.sell7>div.bottom{
