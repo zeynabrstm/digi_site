@@ -7,6 +7,9 @@ div.app{
     border-radius: 10px;
    
 }
+div.app>div{
+    display:inline-block;
+}
 div.app>div.applogo{
     width: 60px;
     height: 100px;
@@ -33,7 +36,10 @@ div.app>div.title>p{
   /* border: 1px solid blueviolet; */
 }
 div.app>div.appline{
+    display:inline-block;
     margin-right: 300px;
+    margin:0 auto;
+    text-align:center;
 }
 div.app>div.appline>div{
    height: 45px;
