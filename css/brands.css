@@ -57,6 +57,7 @@ div.brands>div.bottom1>div{
     border-right: 1px solid lightgray;
     width: 10%;
     height: 80px;
+    margin:0 auto;
     vertical-align: top;
    background-color: rgb(241, 242, 244);
 }
