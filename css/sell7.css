@@ -44,7 +44,7 @@ div.sell7>div.top>div.morereads>a>p{
 }
 div.sell7>div.bottom{
      width: inherit;
-    border: 1px solid  green;
+/*     border: 1px solid  green; */
     margin: 0 auto;
     text-align: center;
 }
