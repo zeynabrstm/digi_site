@@ -12,6 +12,7 @@ div.digikaladiv>div.all{
     margin: 0 auto;
     /* border: 1px solid red; */
     margin-top: 15px;
+    text-align:center;
 }
 
 div.digikaladiv>div.all>div{
@@ -33,7 +34,7 @@ div.digikaladiv>div.all>div.returnup{
     height: 30px;
     border: 1px solid green; 
     border-radius: 5px;
-    margin-right:1100px;
+    margin-left:100px;
 }
 div.digikaladiv>div.all>div.returnup>a{
     text-decoration: none;
@@ -57,9 +58,11 @@ div.digikaladiv>div.all>div.tell>p{
 div.digikaladiv>div.service5{
     width: 90%;
     margin: 0 auto;
+    text-align:center;
 }
 
 div.digikaladiv>div.service5>div{
+    
     display: inline-block;
     /* border: 1px solid pink;  */
     margin-right:115px;
@@ -91,7 +94,7 @@ div.digikaladiv>div.service4>div{
     
 }
 div.digikaladiv>div.service4>div:nth-of-type(2),div.digikaladiv>div.service4>div:nth-of-type(3),div.digikaladiv>div.service4>div:nth-of-type(4){
-    margin-right:200px;
+    margin-right:23%;
 
 }
 div.digikaladiv> div.service4>div>div.a>p{
