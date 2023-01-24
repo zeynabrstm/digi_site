@@ -13,7 +13,7 @@ div.sell7>div.top>div{
 }
 div.sell7>div.top>div.reads{
     /* border: 1px solid green; */
-    width:45%;
+  
 }
 div.sell7>div.top>div.reads>p{
 font-family: body1;
@@ -25,7 +25,7 @@ margin-right: 100px
 
 div.sell7>div.top>div.morereads{
     /* border: 1px solid green; */
-    width:45%;
+
     margin-left: 0;
 
 }   
@@ -42,7 +42,7 @@ div.sell7>div.top>div.morereads>a>p{
 
 }
 div.sell7>div.bottom{
-    width: inherit;
+    width: 88%;
     border: 1px solid  green;
     margin: 0 auto;
     text-align: center;
