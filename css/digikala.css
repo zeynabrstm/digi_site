@@ -91,14 +91,14 @@ div.digikaladiv>div.service4{
 
 }
 div.digikaladiv>div.service4>div{
-    width: 23%;
+    width: 22%;
     display: inline-block;
     vertical-align: top;
     /* border: 1px solid red;  */
     
 }
 div.digikaladiv>div.service4>div:nth-of-type(2),div.digikaladiv>div.service4>div:nth-of-type(3),div.digikaladiv>div.service4>div:nth-of-type(4){
-    margin-right:180px;
+    margin-right:200px;
 
 }
 div.digikaladiv> div.service4>div>div.a>p{
