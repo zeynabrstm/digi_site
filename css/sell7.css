@@ -61,8 +61,8 @@ div.sell7>div.bottom>div{
 
 div.sell7>div.bottom>div>a>img{
    
-  width:21%;
-    display:block;
+  width:300px;
+    display:flex;
   border-radius: 10px;
 }
 div.sell7>div.bottom>div>a{
