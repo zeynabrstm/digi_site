@@ -10,7 +10,7 @@ div.header {
   text-align: right;
   font-size: 34;
   margin-top: 10;
-  display: flex !important;
+  display: flex ;
   border: 0px solid black;
   position: sticky;
   top: 0;
