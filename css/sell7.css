@@ -60,7 +60,9 @@ div.sell7>div.bottom>div{
 }
 
 div.sell7>div.bottom>div>a>img{
+   
   width:21%;
+    display:inline-block;
   border-radius: 10px;
 }
 div.sell7>div.bottom>div>a{
