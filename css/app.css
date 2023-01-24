@@ -9,6 +9,7 @@ div.app{
 }
 div.app>div{
     display:inline-block;
+    vertical-align:top;
 }
 div.app>div.applogo{
     width: 60px;
@@ -37,7 +38,7 @@ div.app>div.title>p{
 }
 div.app>div.appline{
     display:inline-block;
-    margin-right: 300px;
+    margin-right: 270px;
     margin:0 auto;
     text-align:center;
 }
