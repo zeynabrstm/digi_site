@@ -27,7 +27,7 @@ div.brands>div.bottom>div{
     display: inline-block;
     border-right: 1px solid lightgray;
     border-bottom: 1px solid  lightgray;
-    width:11%;
+    width:12%;
     height: 80px;
     vertical-align: top;
     margin:0 auto;
@@ -55,7 +55,7 @@ div.brands>div.bottom1{
 div.brands>div.bottom1>div{
     display: inline-block;
     border-right: 1px solid lightgray;
-    width: 9%;
+    width:10%;
     height: 80px;
     margin:0 auto;
     vertical-align: top;
