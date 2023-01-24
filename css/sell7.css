@@ -61,7 +61,7 @@ div.sell7>div.bottom>div{
 }
 
 div.sell7>div.bottom>div>a>img{
-  width:22%;
+  width:inherit;
   border-radius: 10px;
 }
 div.sell7>div.bottom>div>a{
