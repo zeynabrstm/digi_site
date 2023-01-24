@@ -67,7 +67,7 @@ div.digikaladiv>div.service5>div{
     
     display: inline-block;
     /* border: 1px solid pink;  */
-    margin-right:115px;
+    margin-right:100px;
 }
 div.digikaladiv>div.service5>div>a{
     text-decoration: none;
@@ -91,6 +91,7 @@ div.digikaladiv>div.service4{
 
 }
 div.digikaladiv>div.service4>div{
+    width: 23%;
     display: inline-block;
     vertical-align: top;
     /* border: 1px solid red;  */
