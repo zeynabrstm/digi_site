@@ -52,7 +52,7 @@ color: rgb(143, 138, 138);
 }
 div.digikaladiv>div.all>div.tell>p{
     font-family: body1;
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 10px;
     color: rgb(104, 102, 102);
 }
@@ -82,10 +82,11 @@ div.digikaladiv>div.service5>div>a>svg{
     margin-right: 30px;
 }
 div.digikaladiv>div.service4{
-    width: 95%;
+    width: 96%;
     margin: 0 auto;
    /* border: 1px solid green;  */
     margin-top: 60px;
+    text-align:center;
 
 }
 div.digikaladiv>div.service4>div{
