@@ -42,13 +42,13 @@ div.sell7>div.top>div.morereads>a>p{
 
 }
 div.sell7>div.bottom{
-    width: 88%;
+    width: 99%;
 /*     border: 1px solid  green; */
     margin: 0 auto;
     text-align: center;
 }
 div.sell7>div.bottom>div{
-    width:22%;
+    width:24%;
     height: 250px;
     display: inline-block;
     border: 1px solid lightgray;
