@@ -44,20 +44,21 @@ div.sell7>div.top>div.morereads>a>p{
 div.sell7>div.bottom{
     width: 88%;
     margin: 0 auto;
-    display: flex;
    margin-bottom: 10px;
   text-align: center;
 
  
 }
 div.sell7>div.bottom>div{
-    width: 300px;
+    width: 22%;
     height: 250px;
     display: inline-block;
     border: 1px solid rgb(171, 166, 166);
     border-radius: 10px;
     margin-right: 10px;
     margin-top: 20px;
+    vertical-align: top;
+    
 }
 
 div.sell7>div.bottom>div>a>img{
