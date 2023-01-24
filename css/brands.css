@@ -18,6 +18,7 @@ div.brands>div.p>p{
 }
 div.brands>div.bottom{
     width: 100%;
+    text-align:center;
     background-color: rgb(241, 242, 244);
     
 
@@ -26,7 +27,7 @@ div.brands>div.bottom>div{
     display: inline-block;
     border-right: 1px solid lightgray;
     border-bottom: 1px solid  lightgray;
-    width:172px;
+    width:12%;
     height: 80px;
     vertical-align: top;
    background-color: rgb(241, 242, 244);
@@ -45,6 +46,7 @@ div.brands>div.bottom>div>a>svg{
 div.brands>div.bottom1{
     width: 100%;
     background-color: rgb(241, 242, 244);
+    text-align:center;
   
     
 
@@ -52,7 +54,7 @@ div.brands>div.bottom1{
 div.brands>div.bottom1>div{
     display: inline-block;
     border-right: 1px solid lightgray;
-    width: 152px;
+    width: 11%;
     height: 80px;
     vertical-align: top;
    background-color: rgb(241, 242, 244);
