@@ -1,0 +1,69 @@
+div.brands{
+    width:100%;
+    height:215px ;
+    /* border: 1px solid green; */
+}
+div.brands>div.p{
+    margin-bottom:30px;
+}
+
+div.brands>div.p>p{
+ font-family: body1;
+ font-size: 11px;
+ color: rgb(115, 115, 115);
+ margin-right: 270px;
+ margin-top: 20px;
+
+
+}
+div.brands>div.bottom{
+    width: 100%;
+    background-color: rgb(241, 242, 244);
+    
+
+}
+div.brands>div.bottom>div{
+    display: inline-block;
+    border-right: 1px solid lightgray;
+    border-bottom: 1px solid  lightgray;
+    width:172px;
+    height: 80px;
+    vertical-align: top;
+   background-color: rgb(241, 242, 244);
+}
+
+
+div.brands>div.bottom>div>a>svg{
+    width:90px;
+    height: 30px;
+    /* border: 1px solid red; */
+    margin-top: 20px;
+    margin-right: 40px;
+
+}
+
+div.brands>div.bottom1{
+    width: 100%;
+    background-color: rgb(241, 242, 244);
+  
+    
+
+}
+div.brands>div.bottom1>div{
+    display: inline-block;
+    border-right: 1px solid lightgray;
+    width: 152px;
+    height: 80px;
+    vertical-align: top;
+   background-color: rgb(241, 242, 244);
+}
+
+
+div.brands>div.bottom1>div>a>svg{
+    width:90px;
+    height: 30px;
+   /* border: 1px solid red;  */
+    margin-top: 20px;
+    margin-right: 40px;
+
+}

@@ -1,0 +1,28 @@
+div.sell {
+  width: 100%;
+  height: inherit;
+  margin: 0 auto;
+  margin-top: 30px;
+  /* border: 1px solid green; */
+}
+
+div.sell>div.pic{
+  display: flex;
+  width: 88%;
+  /* border: 1px solid red; */
+  margin: 0 auto;
+
+}
+div.sell >div.pic> div {
+  display: inline-block;
+  width: 600px;
+  height: inherit;
+  /* border: 1px solid brown;  */
+  margin: 0 auto;
+  vertical-align: middle; 
+}
+div.sell > div.pic>div > a > img {
+  width: 610px;
+  margin: 0 auto;
+  border-radius: 10px;
+}

@@ -1,0 +1,74 @@
+div.sell7{
+    width: 100%;
+    height:inherit;
+    margin: 0 auto;
+  margin-top: 20px;
+    
+  
+}
+div.sell7>div.top{
+    width: 88%;
+    margin: 0 auto;
+    /* border: 1px solid green; */
+}
+div.sell7>div.top>div{
+    display: inline-block;
+    width: 40%;
+    margin-right: 30px; 
+    margin: 0 auto;
+    /* border: 1px solid rgb(176, 56, 56); */
+}
+
+div.sell7>div.top>div.reads>p{
+font-family: body1;
+font-size: 17px;
+
+}
+
+div.sell7>div.top>div.morereads{
+/* margin-right:150px; */
+
+}   
+div.sell7>div.top>div.morereads>a{
+    text-decoration: none;
+}
+
+div.sell7>div.top>div.morereads>a>p{
+    font-family: body1;
+    font-size: 13px;
+    color: lightseagreen;
+    margin-right:300px;
+
+}
+
+div.sell7>div.bottom{
+    width: 88%;
+    margin: 0 auto;
+    display: flex;
+   margin-bottom: 10px;
+
+ 
+}
+div.sell7>div.bottom>div{
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+    border: 1px solid rgb(171, 166, 166);
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+div.sell7>div.bottom>div>a>img{
+  width:300px;
+  border-radius: 10px;
+}
+div.sell7>div.bottom>div>a{
+    text-decoration: none;
+}
+div.sell7>div.bottom>div>a>p{
+    color: black;
+ font-family: body1;
+    font-size:12px;
+    margin: 12px;
+}
