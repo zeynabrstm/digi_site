@@ -2,31 +2,41 @@ div.sell7{
     width: 100%;
     height:inherit;
     margin: 0 auto;
-   border-bottom: 1px solid lightgray;
+  margin-top: 20px;
+  /* border: 1px solid black; */
+    
   
+}
+div.sell7>div.top{
+    width: 88%;
+    margin: 0 auto;
+    /* border: 1px solid green;  */
 }
 div.sell7>div.top>div{
     display: inline-block;
-    width: 40%;
+    width:44%;
+    height:4%;
+    text-align: center;
+    /* border: 1px solid rgb(176, 56, 56);  */
+    vertical-align: top;
+    margin: 0 auto;
     margin-right: 30px;
-    /* border: 1px solid gray; */
 }
-div.sell7>div.top>div.reads{
-    /* border: 1px solid green; */
-  
-}
+
 div.sell7>div.top>div.reads>p{
 font-family: body1;
-font-size: 16px;
-text-align: right;
-margin-right: 100px
+font-size: 17px;
+/* border: 1px solid green; */
+width: 30%;
+margin-right: 30px;
+background-color: rgb(212, 66, 88);
+border-radius: 5px;
+
 
 }
 
 div.sell7>div.top>div.morereads{
-    /* border: 1px solid green; */
-
-    margin-left: 0;
+/* margin-right:150px; */
 
 }   
 div.sell7>div.top>div.morereads>a{
@@ -36,33 +46,37 @@ div.sell7>div.top>div.morereads>a{
 div.sell7>div.top>div.morereads>a>p{
     font-family: body1;
     font-size: 13px;
-    color: lightseagreen;
-    text-align: left;
-   
-
+    color: rgb(22, 239, 228);
+    /* border:1px solid green; */
+    margin-right: 300px;
+background-color: rgb(212, 66, 88);
+border-radius: 5px;
+height: 90%;
+line-height:25px ;
 }
+
 div.sell7>div.bottom{
-    width: 99%;
-/*     border: 1px solid  green; */
+    width: 88%;
     margin: 0 auto;
-    text-align: center;
+    display: flex;
+   margin-bottom: 10px;
+   /* border: 1px solid red; */
+
+ 
 }
 div.sell7>div.bottom>div{
     width:24%;
     height: 250px;
     display: inline-block;
-    border: 1px solid lightgray;
+    border: 1px solid rgb(171, 166, 166);
     border-radius: 10px;
     margin-right: 10px;
     margin-top: 20px;
-    margin: 0 auto;
-    vertical-align: top;
+    text-align: center;
 }
 
 div.sell7>div.bottom>div>a>img{
-   
-  width:270px;
-  
+  width:300px;
   border-radius: 10px;
 }
 div.sell7>div.bottom>div>a{
@@ -70,7 +84,7 @@ div.sell7>div.bottom>div>a{
 }
 div.sell7>div.bottom>div>a>p{
     color: black;
- font-family: body1;
+    font-family: body1;
     font-size:12px;
     margin: 12px;
 }
